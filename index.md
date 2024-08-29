@@ -7,17 +7,17 @@
 *   Basic understanding of command-line interface and network concepts
 
 ## Installation 
-1.  [Create an Elastic Cloud account](./https://www.elastic.co/).
+1.  Create an Elastic Cloud account
 2.  Set up a new deployment
 3.  Configure Elastic Agent on Kali Linux
 4.  Generate security events: Use Kali Linux tools or perform actions that generate security events (e.g., nmap scanner detector)
    
 ## Screenshots:
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](./better.png)
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](/better.png)
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
